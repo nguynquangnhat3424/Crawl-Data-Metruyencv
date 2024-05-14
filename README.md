@@ -43,7 +43,7 @@ NOTE: Especially, this dashboard has ability to **automatically update with the 
 
 **Expected Results**
 
-* The dashboard provides users with helpful information in choosing good novels to read.
+* The dashboard provides readers with helpful information in choosing good novels to read.
 * Analyzing reading trends not only helps authors create content that aligns with readers' tastes but also assists translators in finding books that resonate with their audience.
 * The dashboard has the ability to automatically update with the latest data, ensuring information is always accurate and up-to-date.
 
