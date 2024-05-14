@@ -11,6 +11,7 @@ This project will build a 2-page dashboard:
 
 * Page 1: A novel ranking based on a ranking criteria calculated using the author's 8 years of reading experience.
 * Page 2: A report on reading trends with charts and detailed analysis.
+
 NOTE: This dashboard's unique feature is its ability to **automatically update with the latest data**.
 
 ## Implementation:
